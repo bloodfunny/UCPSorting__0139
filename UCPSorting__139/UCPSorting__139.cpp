@@ -31,5 +31,13 @@ void input() {
 			cout << "\n rafi apat mempunyai maksimal 39 elemen, \n";
 		}
 	}
-	
+	cout << endl;
+	cout << "===================" << endl;
+	cout << "Masukan Elemen Rafi" << endl;
+	cout << "===================" << endl;
+
+	for (int i = 0; i < n; i++) {
+		cout << "data ke - " << (i + 1) << " ; ";
+		cin >> rafi[i];
+	}
 }
