@@ -31,5 +31,5 @@ void input() {
 			cout << "\n rafi apat mempunyai maksimal 39 elemen, \n";
 		}
 	}
-
+	
 }
